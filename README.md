@@ -1,1 +1,1 @@
-# security-camera
+Python code for building a security-camera
